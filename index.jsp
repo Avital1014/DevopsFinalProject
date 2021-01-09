@@ -22,7 +22,7 @@
            else if(s.equals("MUL")) {
                out.println("Result is " + (no1*no2));
            }
-           else if(s.equals("DIVe")) {
+           else if(s.equals("DIV")) {
                out.println("Result is " + (no1/no2));
            }
        
@@ -54,7 +54,7 @@
             <input name="no1">
             <input name="no2">
             <input type="hidden" name="button" value="DIV">
-            <input type="submit" value="DIV">
+            <input type="submit" value="DIVe">
         </form>
     </body>
 </html>
