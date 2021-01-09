@@ -22,7 +22,7 @@
            else if(s.equals("MUL")) {
                out.println("Result is " + (no1*no2));
            }
-           else if(s.equals("DIV")) {
+           else if(s.equals("DIVe")) {
                out.println("Result is " + (no1/no2));
            }
        
